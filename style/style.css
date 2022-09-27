@@ -41,10 +41,12 @@ padding-top: 4rem;
 width: 50%;
 }
 
-/* .nav-link:hover {
-  background: linear-gradient(183.49deg, #a2d9ff 8.45%, rgba(208, 222, 247, 0) 120.12%) !important;
-  border-radius: 8px;
-} */
+.nav-link{
+  color: rgb(50, 49, 49);
+}
+.nav-link:hover {
+  color: #ffc107;
+}
 .slider {
   width: 50%;
   margin: 100px auto;
